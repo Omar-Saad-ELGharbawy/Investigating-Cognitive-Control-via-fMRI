@@ -83,7 +83,7 @@ Exploratory group analysis was performed using Flame 1 based on the Fixed Effect
 Regions of interest (ROIs) were identified and confirmed using a confirmation test to ensure the significance of the identified clusters.
 
 ## Results and Interpretation
-
+Results and Interpretation discussed in the [report]()
 
 ## Discussion
 
@@ -101,8 +101,8 @@ Kelly, A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2008). 
 
 ## Submission
 
-This [Report](Investigating-Cognitive-Control-via-fMRI_Report.pdf), authored by Mahmoud Yaser Salman, was submitted as the final project for the "Neuroimaging" course, under the guidance of Prof. Meena Makary.
+This [Report](), authored by Omar Saad Elgharbawy, was submitted as the final project for the "Neuroimaging" course, under the guidance of Prof. Meena Makary.
 
 ## Scripts
 
-The repository includes all [scripts](scripts/) utilized in the analysis, many of which were graciously shared by my friend Omar Saad. These scripts, adapted from [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/fMRI_Intro.html), proved to be versatile and contributed significantly to achieving similar results. Unfortunately, my own scripts had to be removed due to unexpected issues with my WSL 2.0 setup. The entire analysis was conducted on Linux Ubuntu 22.04 using WSL 2.0 from a Windows environment.
+The repository includes all [scripts](scripts/) utilized in the analysis. The entire analysis was conducted on Linux Ubuntu 22.04 using WSL 2.0 from a Windows environment.
