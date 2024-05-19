@@ -83,7 +83,7 @@ Exploratory group analysis was performed using Flame 1 based on the Fixed Effect
 Regions of interest (ROIs) were identified and confirmed using a confirmation test to ensure the significance of the identified clusters.
 
 ## Results and Interpretation
-Results and Interpretation discussed in the [report]()
+Results and Interpretation discussed in the [report](https://github.com/Omar-Saad-ELGharbawy/Investigating-Cognitive-Control-via-fMRI/blob/main/fMRI%20FSL%20Analysis.pdf)
 
 ## Discussion
 
@@ -101,7 +101,7 @@ Kelly, A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2008). 
 
 ## Submission
 
-This [Report](), authored by Omar Saad Elgharbawy, was submitted as the final project for the "Neuroimaging" course, under the guidance of Prof. Meena Makary.
+This [Report](https://github.com/Omar-Saad-ELGharbawy/Investigating-Cognitive-Control-via-fMRI/blob/main/fMRI%20FSL%20Analysis.pdf), authored by Omar Saad Elgharbawy, was submitted as the final project for the "Neuroimaging" course, under the guidance of Prof. Meena Makary.
 
 ## Scripts
 
